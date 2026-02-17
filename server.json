@@ -1,7 +1,9 @@
 {
   "status": "online",
-  "message": "Welcome to the Server!",
+  "message": "Welcome to the Gifting System!",
   "gift_codes": [
-    {"id": "ID-1234", "value": 500}
+    {"id": "SHIVANSH100", "value": 100},
+    {"id": "GIFT500", "value": 500},
+    {"id": "ADMIN_COIN", "value": 1000}
   ]
 }
