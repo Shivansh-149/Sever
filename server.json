@@ -1,5 +1,5 @@
 {
   "status": "online",
-  "gift_amount": 10,
-  "message": "Welcome to the game!"
+  "message": "Welcome! Double coins enabled today.",
+  "gift_multiplier": 2
 }
