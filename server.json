@@ -1,9 +1,7 @@
 {
   "status": "online",
-  "message": "Welcome!",
+  "message": "Welcome to the Server!",
   "gift_codes": [
-    {"id": "GIFT100", "value": 100},
-    {"id": "COIN50", "value": 50},
-    {"id": "SHIVANSH77", "value": 500}
+    {"id": "ID-1234", "value": 500}
   ]
 }
