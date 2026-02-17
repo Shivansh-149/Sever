@@ -1,5 +1,9 @@
 {
   "status": "online",
-  "message": "Welcome! Double coins enabed today.",
-  "gift_multiplier": 2
+  "message": "Welcome!",
+  "gift_codes": [
+    {"id": "GIFT100", "value": 100},
+    {"id": "COIN50", "value": 50},
+    {"id": "SHIVANSH77", "value": 500}
+  ]
 }
